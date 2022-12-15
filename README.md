@@ -13,7 +13,7 @@
 <a href="https://instagram.com/samuecolares_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="samuecolaresdeaquino@gmail.com" height="30" width="40" /></a>
 </p>
 
-
+<br>
 <!--GIT STATUS-->
 <div align="center">
   <a href="https://github.com/samuelcolares">
@@ -21,7 +21,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcolares&layout=compact&langs_count=7&theme=gotham"/>
   </a>
 </div>
-
+<br>
 
 <!--Languages and Tools-->
 <p align="right"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
