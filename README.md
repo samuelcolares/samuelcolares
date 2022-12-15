@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samuel</h1>
+<h1 align="center">Olá pessoas! Muito prazer, Samuel</h1>
 <h3 align="center">A passionate frontend developer, and future FullStack Developer from Brazil</h3>
 <br><br><br>
 
