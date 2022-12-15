@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [http://samuelcolares.github.io/](http://samuelcolares.github.io/)
 <br><br><br>
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samuelcolares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuelcolares" height="30" width="40" /></a>
 <a href="https://instagram.com/samuecolares_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samuecolares_" height="30" width="40" /></a>
