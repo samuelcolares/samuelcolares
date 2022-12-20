@@ -1,4 +1,4 @@
-<h1 align="center">Olá pessoas! Muito prazer, Samuel</h1>
+<h1 align="center"></h1>
 <h3 align="center">A passionate frontend developer, and future FullStack Developer from Brazil</h3>
 <br><br><br>
 
@@ -18,12 +18,16 @@
 <div align="center">
   <a href="https://github.com/samuelcolares">
     <img height="170em" width="40%" src="https://github-readme-stats.vercel.app/api?username=samuelcolares&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <br>
     <img height="170em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcolares&layout=compact&langs_count=7&theme=gotham"/>
   </a>
 </div>
 <br>
 
 <!--Languages and Tools-->
-<p align="right"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+ </p>
