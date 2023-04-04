@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer, and future FullStack Developer from Brazil</h3>
 <br><br><br>
 
-- 🐱‍👓 I’m currently learning HTML5, CSS3 and Javascript / Atualmente aprendendo HTML5, CSS3 e Javascript
+- 🐱‍👓 I’m currently learning TypeScript
 
 - 👨‍💻 All of my projects are available at [http://samuelcolares.github.io/](http://samuelcolares.github.io/)
 <br><br><br>
