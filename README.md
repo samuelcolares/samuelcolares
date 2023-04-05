@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [http://samuelcolares.github.io/](http://samuelcolares.github.io/)
 <br><br><br>
 
-<div align="center">
+<div align="left">
 
 |  **Languages and Tools** | **Connect with me**  |
 |:---:|:---:|
