@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer, and future FullStack Developer from Brazil</h3>
 <br><br><br>
 
-- 🐱‍👓 I’m currently learning TypeScript and Node.JS
+- 😎 I’m currently learning React and Node.JS
 
-- 👨‍💻 All of my projects are available at [http://samuelcolares.github.io/](http://samuelcolares.github.io/)
+- 👨‍💻 Most of my projects are available here and you could, if you please, check my portifolio at <a href="https://samuelcolares.vercel.app/">here</a>
 <br><br><br>
 
 <div align="left">
