@@ -1,5 +1,5 @@
 <h1 align="center"></h1>
-<h3 align="center">A passionate frontend developer, and future FullStack Developer from Brazil</h3>
+<h3 align="center">A passionate frontend developer, and future Front-End Developer from Brazil</h3>
 <br><br><br>
 
 - 😎 I’m currently learning React and Node.JS
