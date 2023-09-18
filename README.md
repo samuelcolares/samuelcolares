@@ -1,10 +1,8 @@
-![Header](./github-header-image.png)
+![Header](./github-header.png)
 
-<h1 align="center"></h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
-<br><br><br>
+<br>
 
-- 😎 Currently deep diving in Next.js and Node.JS
+While you reading this I'm probably coding with next.js and using shadcnui 😎 
   
 <div align="left">
   
@@ -20,7 +18,7 @@
 
 <!--GIT STATUS-->
 <div align="left">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcolares&layout=donut&langs_count=7&theme=blue_navy"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcolares&layout=donut&langs_count=7&theme=blue_navy" width="40%"/>
 </div>
 <br>
 
