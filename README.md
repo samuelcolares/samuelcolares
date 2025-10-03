@@ -7,11 +7,8 @@
 
 <div>
 	<br>
-Lifting some weights, listening to music or getting angry about mysterious type errors appearing in my IDE
 
-Thats me, life's good
-
-and i like pizza.
+I love pizza, Inline-4 Cylinder Bikes, my dogs and my wife. 
 </div>
 
 
